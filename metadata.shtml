@@ -1,0 +1,1427 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="/static/js/analytics.js?v=1504048623.0" charset="utf-8"></script><script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app19.us.archive.org';archive_analytics.values.server_ms=427;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1504048623.0" charset="utf-8"></script><script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script><link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1504048623.0">
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1504048623.0">
+<!-- End Wayback Rewrite JS Include --><title>GECSC: Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr.</title>
+<link rel="stylesheet" type="text/css" href="/web/20170127094252cs_/https://gec.cr.usgs.gov/visid_includes/external/styles/common.css">
+<link rel="stylesheet" type="text/css" href="/web/20170127094252cs_/https://gec.cr.usgs.gov/styles/custom.css">
+<!-- START Metadate Variables --><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="language" content="en">
+<meta name="author" content="Web Development Team">
+<meta name="description" content="Public website for the Geosciences and Environmental Change Science Center (GECSC)">
+<meta name="keywords" content="USGS, environmental change, land remote sensing, land change science, geologic mapping, landcover change">
+<meta name="created" content="20121030">
+<meta name="expires" content="never">
+<meta name="review" content="20121030">
+<meta name="dc.title" content='Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr. '>
+<meta name="dc.creator" content="U.S. Geological Survey ">
+<meta name="dc.subject" content="vegetation climate trees hardwoods conifers ">
+<meta name="dc.description" content='These maps are a digital representation of the individual tree species range maps of the "Atlas of the United States Trees" by Elbert L. Little, Jr.  The atlas shows the natural distribution or range of the native tree species of North America.  These coverages represent 3 volumes of the atlas. '>
+<meta name="dc.publisher" content="U.S. Geological Survey">
+<meta name="dc.date" content="1999">
+<meta name="dc.type" content="data.map">
+<meta name="dc.format" content="ArcView Shapefile">
+<meta name="dc.identifier" content="http://gec.cr.usgs.gov/data/little">
+<meta name="dc.lang" content="en">
+<meta name="dc.coverage.x.min" scheme="DD" content="-180.0">
+<meta name="dc.coverage.x.max" scheme="DD" content="-50.0">
+<meta name="dc.coverage.y.min" scheme="DD" content="7.0">
+<meta name="dc.coverage.y.max" scheme="DD" content="83.0">
+<meta name="dc.coverage.placeName" content="United States">
+<meta name="dc.coverage.placeName" content="North America">
+<meta name="dc.coverage.placeName" content="Alaska">
+<meta name="dc.coverage.placeName" content="Alabama">
+<meta name="dc.coverage.placeName" content="Arizona">
+<meta name="dc.coverage.placeName" content="Arkansas">
+<meta name="dc.coverage.placeName" content="California">
+<meta name="dc.coverage.placeName" content="Colorado">
+<meta name="dc.coverage.placeName" content="Connecticut">
+<meta name="dc.coverage.placeName" content="Delaware">
+<meta name="dc.coverage.placeName" content="Florida">
+<meta name="dc.coverage.placeName" content="Georgia">
+<meta name="dc.coverage.placeName" content="Idaho">
+<meta name="dc.coverage.placeName" content="Illinois">
+<meta name="dc.coverage.placeName" content="Indiana">
+<meta name="dc.coverage.placeName" content="Iowa">
+<meta name="dc.coverage.placeName" content="Kansas">
+<meta name="dc.coverage.placeName" content="Kentucky">
+<meta name="dc.coverage.placeName" content="Louisiana">
+<meta name="dc.coverage.placeName" content="Maine">
+<meta name="dc.coverage.placeName" content="Maryland">
+<meta name="dc.coverage.placeName" content="Massachusetts">
+<meta name="dc.coverage.placeName" content="Michigan">
+<meta name="dc.coverage.placeName" content="Minnesota">
+<meta name="dc.coverage.placeName" content="Mississippi">
+<meta name="dc.coverage.placeName" content="Missouri">
+<meta name="dc.coverage.placeName" content="Montana">
+<meta name="dc.coverage.placeName" content="Nebraska">
+<meta name="dc.coverage.placeName" content="Nevada">
+<meta name="dc.coverage.placeName" content="New Hampshire">
+<meta name="dc.coverage.placeName" content="New Jersey">
+<meta name="dc.coverage.placeName" content="New Mexico">
+<meta name="dc.coverage.placeName" content="New York">
+<meta name="dc.coverage.placeName" content="North Carolina">
+<meta name="dc.coverage.placeName" content="North Dakota">
+<meta name="dc.coverage.placeName" content="Ohio">
+<meta name="dc.coverage.placeName" content="Oklahoma">
+<meta name="dc.coverage.placeName" content="Oregon">
+<meta name="dc.coverage.placeName" content="Pennsylvania">
+<meta name="dc.coverage.placeName" content="Rhode Island">
+<meta name="dc.coverage.placeName" content="South Carolina">
+<meta name="dc.coverage.placeName" content="South Dakota">
+<meta name="dc.coverage.placeName" content="Tennessee">
+<meta name="dc.coverage.placeName" content="Texas">
+<meta name="dc.coverage.placeName" content="Utah">
+<meta name="dc.coverage.placeName" content="Vermont">
+<meta name="dc.coverage.placeName" content="Virginia">
+<meta name="dc.coverage.placeName" content="Washington">
+<meta name="dc.coverage.placeName" content="Washington D.C.">
+<meta name="dc.coverage.placeName" content="West Virginia">
+<meta name="dc.coverage.placeName" content="Wisconsin">
+<meta name="dc.coverage.placeName" content="Wyoming">
+<meta name="dc.coverage.placeName" content="Canada">
+<meta name="dc.coverage.placeName" content="Mexico">
+<meta name="dc.coverage.placeName" content="USA">
+<meta name="dc.coverage.placeName" content="U.S.">
+<meta name="dc.rights" content="Access constraints: None; Use constraints: None">
+<!-- END Metadata Variables --><script type="application/javascript" src="https://web.archive.org/web/20170127094252js_/https://www.usgs.gov/scripts/analytics/usgs-analytics.js"></script>
+</head>
+<!-- START main page content --><body>
+
+<!-- Code used by the site search -->
+<script>
+	function searchScope(site) {
+	var field = document.getElementById('sitelimit');
+	var scope;
+	switch(site) {
+		case 1: scope='gec.cr.usgs.gov';
+				break;
+		case 2: scope='';
+				break;
+		default: scope='';
+	}
+	field.value = scope;
+}
+</script><!-- Code to skip the header --><a href="#menu" title="Skip the header and title section"></a>
+
+<!-- Code to include the standard USGS header -->
+<!-- BEGIN USGS Header Template -->
+<div id="usgscolorband">
+	<div id="usgsbanner">
+		<div id="usgsidentifier"><a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/"><img src="/web/20170127094252im_/https://gec.cr.usgs.gov/visid_includes/external/images/header_graphic_usgsIdentifier_white.jpg" alt="USGS - science for a changing world" title="U.S. Geological Survey Home Page" width="178" height="72"></a></div>
+		<div id="usgsccsabox">
+			<div id="usgsccsa">
+			  <br><a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/">USGS Home</a>
+			  <br><a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/ask/">Contact USGS</a>
+			  <br><a href="https://web.archive.org/web/20170127094252/https://search.usgs.gov/">Search USGS</a>
+              <br>
+</div>
+		</div>
+	</div>
+</div>
+<!-- END USGS Header Template -->
+
+<!-- START Title Bar -->
+<div id="usgstitle">
+	<p>Geosciences and Environmental Change Science Center</p>
+	
+	<!-- Code for adding the site search -->
+	<form accept-charset="UTF-8" action="https://web.archive.org/web/20170127094252/http://search.usa.gov/search" id="search_form" method="get">
+	     <div style="margin:0;padding:0;display:inline">
+	        <input name="utf8" type="hidden" value="â">
+</div>
+	    <input id="affiliate" name="affiliate" type="hidden" value="usgs"><input type="hidden" name="sitelimit" id="sitelimit" value="gec.cr.usgs.gov"><input autocomplete="off" class="usagov-search-autocomplete" id="query" name="query" type="text" maxlength="255" title="Enter your search" placeholder="Search..." size="20"><input name="commit" id="submit-button" type="submit" value="Search">
+</form>
+	
+</div>
+<!-- END Title -->
+
+<!-- Location jumped to by skipping the header and title section -->
+<a name="menu"></a>
+
+<!-- Code to skip the main menu -->
+<a href="#content" title="Skip the main menu"></a>
+
+<noscript>
+    <div id="pg-header">JavaScript disabled</div>
+<br>
+    It appears that you have JavaScript(JS) disabled. Several items on this site require JS to work correctly.<br><br><br>
+</noscript>
+
+<!-- START Menu Bar -->
+<div id="navBar">
+	<ul id="nav" class="drop">
+<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/index.shtml">Home</a></li>
+		<li>
+<a href="#">Research Themes</a>
+			<ul>
+<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/envchg.shtml">Environmental Change</a></li>
+				<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/geomap.shtml">Geologic Framework</a></li>
+			</ul>
+</li>
+		<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/tech.shtml">Technology</a></li>
+		<li>
+<a href="#">Products</a>
+			<ul>
+<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/apps.shtml">Applications</a></li>
+				<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/data.shtml">Data and Maps</a></li>
+				<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/pubs.shtml">Publications</a></li>
+			</ul>
+</li>
+		<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/contact_us.shtml">About Us</a></li>
+		<li><a href="/web/20170127094252/https://gec.cr.usgs.gov/archive.shtml">Project Archive</a></li>
+		
+	</ul>
+</div>
+<div class="clear"></div>
+<!-- END Menu Bar -->
+
+<!-- Location jumped to by skipping the main menu -->
+<a name="content"></a>
+
+
+<h1>Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr.</h1>
+Metadata also available as - [<a href="vegmaps_faq.shtml">Questions &amp; Answers</a>]<p>
+</p>
+<h2>Metadata:</h2>
+<ul>
+<li>
+<a href="#Identification_Information">Identification_Information</a>
+</li>
+<li>
+<a href="#Data_Quality_Information">Data_Quality_Information</a>
+</li>
+<li>
+<a href="#Spatial_Data_Organization_Information">Spatial_Data_Organization_Information</a>
+</li>
+<li>
+<a href="#Spatial_Reference_Information">Spatial_Reference_Information</a>
+</li>
+<li>
+<a href="#Entity_and_Attribute_Information">Entity_and_Attribute_Information</a>
+</li>
+<li>
+<a href="#Distribution_Information">Distribution_Information</a>
+</li>
+<li>
+<a href="#Metadata_Reference_Information">Metadata_Reference_Information</a>
+</li>
+</ul>
+<a name="Identification_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Identification_Information:</em>
+</dt>
+<dd>
+<dl>
+<p>
+</p>
+<dt>
+<em>Citation:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Citation_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Originator:</em>  U.S. Geological Survey
+<dt>
+<em>Publication_Date:</em>  1999
+<dt>
+<em>Title:</em>
+</dt>
+</dt>
+</dt>
+<dd>
+
+Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr.
+
+</dd>
+<dt>
+<em>Edition:</em>  Digital Version 1.0
+<dt>
+<em>Geospatial_Data_Presentation_Form:</em>  map
+<dt>
+<em>Online_Linkage:</em>  <a href="https://web.archive.org/web/20170127094252/http://gec.cr.usgs.gov/data/little">&lt;http://gec.cr.usgs.gov/data/little&gt;</a>
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Description:</em>
+</dt>
+<dd>
+<dl>
+<p>
+</p>
+<dt>
+<em>Abstract:</em>
+</dt>
+<dd>
+
+These maps are a digital representation of the individual tree species range maps of the "Atlas of the United States Trees" by Elbert L. Little, Jr.  The atlas shows the natural distribution or range of the native tree species of North America.  These coverages represent 3 volumes of the atlas.
+
+<p>
+</p>
+</dd>
+<dt>
+<em>Purpose:</em>
+</dt>
+<dd>
+
+To create a digital representation of the vegetation range maps published in "Atlas of United States Trees" by Elbert L. Little, Jr.
+
+<p>
+</p>
+<p>
+</p>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Time_Period_of_Content:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Time_Period_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Single_Date/Time:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Calendar_Date:</em>  1999
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Currentness_Reference:</em>  Publication date
+<p>
+</p>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Status:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Progress:</em>  In work
+<dt>
+<em>Maintenance_and_Update_Frequency:</em>  Irregularly
+<p>
+</p>
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Spatial_Domain:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Bounding_Coordinates:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>West_Bounding_Coordinate:</em>  -180.0
+<dt>
+<em>East_Bounding_Coordinate:</em>  -50.0
+<dt>
+<em>North_Bounding_Coordinate:</em>  83.0
+<dt>
+<em>South_Bounding_Coordinate:</em>  7.0
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Keywords:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Theme:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Theme_Keyword_Thesaurus:</em>  None
+<dt>
+<em>Theme_Keyword:</em>  vegetation
+<dt>
+<em>Theme_Keyword:</em>  climate
+<dt>
+<em>Theme_Keyword:</em>  trees
+<dt>
+<em>Theme_Keyword:</em>  hardwoods
+<dt>
+<em>Theme_Keyword:</em>  conifers
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Place:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Place_Keyword_Thesaurus:</em>  None
+<dt>
+<em>Place_Keyword:</em>  United States
+<dt>
+<em>Place_Keyword:</em>  North America
+<dt>
+<em>Place_Keyword:</em>  Alaska
+<dt>
+<em>Place_Keyword:</em>  Alabama
+<dt>
+<em>Place_Keyword:</em>  Arizona
+<dt>
+<em>Place_Keyword:</em>  Arkansas
+<dt>
+<em>Place_Keyword:</em>  California
+<dt>
+<em>Place_Keyword:</em>  Colorado
+<dt>
+<em>Place_Keyword:</em>  Connecticut
+<dt>
+<em>Place_Keyword:</em>  Delaware
+<dt>
+<em>Place_Keyword:</em>  Florida
+<dt>
+<em>Place_Keyword:</em>  Georgia
+<dt>
+<em>Place_Keyword:</em>  Idaho
+<dt>
+<em>Place_Keyword:</em>  Illinois
+<dt>
+<em>Place_Keyword:</em>  Indiana
+<dt>
+<em>Place_Keyword:</em>  Iowa
+<dt>
+<em>Place_Keyword:</em>  Kansas
+<dt>
+<em>Place_Keyword:</em>  Kentucky
+<dt>
+<em>Place_Keyword:</em>  Louisiana
+<dt>
+<em>Place_Keyword:</em>  Maine
+<dt>
+<em>Place_Keyword:</em>  Maryland
+<dt>
+<em>Place_Keyword:</em>  Massachusetts
+<dt>
+<em>Place_Keyword:</em>  Michigan
+<dt>
+<em>Place_Keyword:</em>  Minnesota
+<dt>
+<em>Place_Keyword:</em>  Mississippi
+<dt>
+<em>Place_Keyword:</em>  Missouri
+<dt>
+<em>Place_Keyword:</em>  Montana
+<dt>
+<em>Place_Keyword:</em>  Nebraska
+<dt>
+<em>Place_Keyword:</em>  Nevada
+<dt>
+<em>Place_Keyword:</em>  New Hampshire
+<dt>
+<em>Place_Keyword:</em>  New Jersey
+<dt>
+<em>Place_Keyword:</em>  New Mexico
+<dt>
+<em>Place_Keyword:</em>  New York
+<dt>
+<em>Place_Keyword:</em>  North Carolina
+<dt>
+<em>Place_Keyword:</em>  North Dakota
+<dt>
+<em>Place_Keyword:</em>  Ohio
+<dt>
+<em>Place_Keyword:</em>  Oklahoma
+<dt>
+<em>Place_Keyword:</em>  Oregon
+<dt>
+<em>Place_Keyword:</em>  Pennsylvania
+<dt>
+<em>Place_Keyword:</em>  Rhode Island
+<dt>
+<em>Place_Keyword:</em>  South Carolina
+<dt>
+<em>Place_Keyword:</em>  South Dakota
+<dt>
+<em>Place_Keyword:</em>  Tennessee
+<dt>
+<em>Place_Keyword:</em>  Texas
+<dt>
+<em>Place_Keyword:</em>  Utah
+<dt>
+<em>Place_Keyword:</em>  Vermont
+<dt>
+<em>Place_Keyword:</em>  Virginia
+<dt>
+<em>Place_Keyword:</em>  Washington
+<dt>
+<em>Place_Keyword:</em>  Washington D.C.
+<dt>
+<em>Place_Keyword:</em>  West Virginia
+<dt>
+<em>Place_Keyword:</em>  Wisconsin
+<dt>
+<em>Place_Keyword:</em>  Wyoming
+<dt>
+<em>Place_Keyword:</em>  Canada
+<dt>
+<em>Place_Keyword:</em>  Mexico
+<dt>
+<em>Place_Keyword:</em>  USA
+<dt>
+<em>Place_Keyword:</em>  U.S.
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Access_Constraints:</em>  None
+<dt>
+<em>Use_Constraints:</em>  None
+<p>
+</p>
+<dt>
+<em>Point_of_Contact:</em>
+</dt>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Person_Primary:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Contact_Person:</em>  Robert S. Thompson
+<dt>
+<em>Contact_Organization:</em>  U.S. Geological Survey
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Contact_Position:</em>  Geologist
+<dt>
+<em>Contact_Address:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Address_Type:</em>  mailing
+<dt>
+<em>Address:</em>
+</dt>
+</dt>
+<dd>
+
+Denver Federal Center
+MS 980, Box 25046
+
+</dd>
+<dt>
+<em>City:</em>  Denver
+<dt>
+<em>State_or_Province:</em>  Colorado
+<dt>
+<em>Postal_Code:</em>  80225-0046
+<dt>
+<em>Country:</em>  USA
+</dt>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Contact_Voice_Telephone:</em>  303-236-5347
+<dt>
+<em>Contact_Facsimile_Telephone:</em>  303-236-5349
+<dt>
+<em>Contact_Electronic_Mail_Address:</em>  rthompson@usgs.gov
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Native_Data_Set_Environment:</em>
+</dt>
+<dd>
+
+SunOS, 5.5.1, sun4d UNIX
+ARC/INFO version 7.1.1
+<p>
+
+</p>
+</dd>
+<dt>
+<em>Browse_Graphic:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Browse_Graphic_File_Name:</em>  Available at &lt;<a href="https://web.archive.org/web/20170127094252/http://gec.cr.usgs.gov/data/little">http://gec.cr.usgs.gov/data/little</a>&gt;
+<dt>
+<em>Browse_Graphic_File_Description:</em>  individual browse graphics are available for each map.
+<dt>
+<em>Browse_Graphic_File_Type:</em>  PDF
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Data_Quality_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Data_Quality_Information:</em>
+</dt>
+<dd>
+<dl>
+<p>
+</p>
+<dt>
+<em>Attribute_Accuracy:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Attribute_Accuracy_Report:</em>
+</dt>
+<dd>
+
+The single user-defined attribute ("code") has an enumerated domain (values of 0 or 1 only), so numerical measures of accuracy are not applicable.  The data sets were checked for attribute accuracy by visually comparing color-coded plots of each dataset with the source maps.
+
+<p>
+</p>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Logical_Consistency_Report:</em>
+</dt>
+<dd>
+
+In some instances, data for the United States portions of the maps were derived from source maps at 1:10,000,000 scale and the portions outside the United States were derived from sources at approximately 1:27,000,000 scale.  The coverages were checked for node, intersection, and duplication errors and corrected when necessary.  All polygons were snapped closed at nodes.
+
+<p>
+</p>
+</dd>
+<dt>
+<em>Completeness_Report:</em>
+</dt>
+<dd>
+
+All polygons on the printed source maps are represented in the digital coverages.
+<p>
+</p>
+<p>
+
+</p>
+</dd>
+<dt>
+<em>Positional_Accuracy:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Horizontal_Positional_Accuracy:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Horizontal_Positional_Accuracy_Report:</em>
+</dt>
+<dd>
+
+At least 90% of the points tested on hard copy printout are within 1/50 inch (0.5mm) of the source data.
+
+<p>
+</p>
+<p>
+</p>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Lineage:</em>
+</dt>
+<dd>
+<dl>
+<p>
+</p>
+<dt>
+<em>Source_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Source_Citation:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Citation_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Originator:</em>  Little, Elbert L., Jr.
+<dt>
+<em>Publication_Date:</em>  1971
+<dt>
+<em>Title:</em>
+</dt>
+</dt>
+</dt>
+<dd>
+
+Atlas of United States Trees, Volume 1: Conifers and Important Hardwoods
+
+</dd>
+<dt>
+<em>Geospatial_Data_Presentation_Form:</em>  Atlas
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Type_of_Source_Media:</em>  paper
+<dt>
+<em>Source_Time_Period_of_Content:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Time_Period_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Single_Date/Time:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Calendar_Date:</em>  1971
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Source_Currentness_Reference:</em>  Publication date
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Source_Citation_Abbreviation:</em>  Little, 1971
+<dt>
+<em>Source_Contribution:</em>  Distribution and extents of tree species.
+<p>
+</p>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Source_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Source_Citation:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Citation_Information:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Originator:</em>  Little, Elbert L., Jr.
+<dt>
+<em>Publication_Date:</em>  1976
+<dt>
+<em>Title:</em>  Atlas of United States Trees, Volume 3: Minor Western Hardwoods
+<dt>
+<em>Geospatial_Data_Presentation_Form:</em>  Atlas
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Type_of_Source_Media:</em>  paper
+<dt>
+<em>Source_Time_Period_of_Content:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Time_Period_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Single_Date/Time:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Calendar_Date:</em>  1976
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Source_Currentness_Reference:</em>  Publication Date
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Source_Citation_Abbreviation:</em>  Little, 1976
+<dt>
+<em>Source_Contribution:</em>  Distribution and extents of tree species.
+<p>
+</p>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Source_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Source_Citation:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Citation_Information:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Originator:</em>  Little, Elbert L., Jr.
+<dt>
+<em>Publication_Date:</em>  1977
+<dt>
+<em>Title:</em>  Atlas of United States Trees, Volume 4: Minor Eastern Hardwoods
+<dt>
+<em>Geospatial_Data_Presentation_Form:</em>  Atlas
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Type_of_Source_Media:</em>  paper
+<dt>
+<em>Source_Time_Period_of_Content:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Time_Period_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Single_Date/Time:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Calendar_Date:</em>  1977
+</dt></dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Source_Currentness_Reference:</em>  Publication date
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Source_Citation_Abbreviation:</em>  Little, 1977
+<dt>
+<em>Source_Contribution:</em>  Distribution and extents of tree species.
+<p>
+</p>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Process_Step:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Process_Description:</em>
+</dt>
+<dd>
+
+The coverage was created by scanning the map of each species range from the book, registering to a county coverage at 1:2,000,000 scale using the ARC/INFO REGISTER command, and rectifying.
+
+</dd>
+<dt>
+<em>Process_Date:</em>  1999
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Process_Step:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Process_Description:</em>
+</dt>
+<dd>
+
+Digitized ploygon boundaries on screen using scanned and registered images as reference.
+
+</dd>
+<dt>
+<em>Process_Date:</em>  1999
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Process_Step:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Process_Description:</em>
+</dt>
+<dd>
+
+Added CODE attributes to coverages; assigned attribute of 1 to polygons representing presence of plant species and 0 to all other polygons.
+
+</dd>
+<dt>
+<em>Process_Date:</em>  1999
+<p>
+</p>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Spatial_Data_Organization_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Spatial_Data_Organization_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Direct_Spatial_Reference_Method:</em>  Vector
+<dt>
+<em>Point_and_Vector_Object_Information:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>SDTS_Terms_Description:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>SDTS_Point_and_Vector_Object_Type:</em>  GT-polygon composed of chains
+<p>
+</p>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Spatial_Reference_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Spatial_Reference_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Horizontal_Coordinate_System_Definition:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Geographic:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Latitude_Resolution:</em>  0.01
+<dt>
+<em>Longitude_Resolution:</em>  0.01
+<dt>
+<em>Geographic_Coordinate_Units:</em>  Decimal degrees
+</dt>
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Geodetic_Model:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Horizontal_Datum_Name:</em>  North American Datum of 1927
+<dt>
+<em>Ellipsoid_Name:</em>  Clarke 1866
+<dt>
+<em>Semi-major_Axis:</em>  6378206.4
+<dt>
+<em>Denominator_of_Flattening_Ratio:</em>  294.98
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Entity_and_Attribute_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Entity_and_Attribute_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Overview_Description:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Entity_and_Attribute_Overview:</em>
+</dt>
+<dd>
+
+The only user defined attribute is "code".  Polygons attributed with a 1 denotes presence of the tree species in that area.  A code attribute of O indicates that the species is absent.
+
+</dd>
+<dt>
+<em>Entity_and_Attribute_Detail_Citation:</em>  none
+<p>
+</p>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Distribution_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Distribution_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Distributor:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Organization_Primary:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Contact_Organization:</em>  U.S. Geological Survey
+<dt>
+<em>Contact_Person:</em>  Randall Schumann
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Contact_Address:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Address_Type:</em>  mailing
+<dt>
+<em>Address:</em>
+</dt>
+</dt>
+<dd>
+
+Denver Federal Center
+MS 980, Box 25046
+
+</dd>
+<dt>
+<em>City:</em>  Denver
+<dt>
+<em>State_or_Province:</em>  CO
+<dt>
+<em>Postal_Code:</em>  80225-0046
+<dt>
+<em>Country:</em>  USA
+</dt>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Contact_Voice_Telephone:</em>  (303) 236-1525
+<dt>
+<em>Contact_Electronic_Mail_Address:</em>  rschumann@usgs.gov
+<dt>
+<em>Contact_Facsimile_Telephone:</em>  (303) 236-5349
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Distribution_Liability:</em>
+</dt>
+<dd>
+
+Although these data have been used by the U.S. Geological Survey,
+U.S. Department of the Interior, no warranty expressed or implied
+is made by the U.S. Geological Survey as to the accuracy of the
+data.
+<p>
+The act of distribution shall not constitute any such warranty,
+and no responsibility is assumed by the U.S. Geological Survey in
+the use of this data, software, or related materials.
+</p>
+<p>
+
+</p>
+</dd>
+<dt>
+<em>Standard_Order_Process:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Digital_Form:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Digital_Transfer_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Format_Name:</em>  ArcView Shapefile
+<dt>
+<em>File_Decompression_Technique:</em>
+</dt>
+</dt>
+<dd>
+
+.ZIP files are archives for DOS/Windows computer systems.  To extract them, use WinZip, PKzip, or similar programs.<p>
+.tar.gz files are gzip-compressed TAR archives.  On a UNIX system, the following command can be used to extract the files:  "gunzip &lt;filename&gt;.tar.gz|tar xvf -"
+
+</p>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Digital_Transfer_Option:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Online_Option:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Computer_Contact_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Network_Address:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Network_Resource_Name:</em>  <a href="https://web.archive.org/web/20170127094252/http://gec.cr.usgs.gov/data/little">&lt;http://gec.cr.usgs.gov/data/little&gt;</a>
+</dt></dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Fees:</em>  None
+<p>
+</p>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+</dl>
+<a name="Metadata_Reference_Information">
+<hr></a>
+<dl>
+<dt>
+<em>Metadata_Reference_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Metadata_Date:</em>  19990928
+<dt>
+<em>Metadata_Review_Date:</em>  19990927
+<dt>
+<em>Metadata_Contact:</em>
+</dt>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Information:</em>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Contact_Organization_Primary:</em>
+</dt>
+<dd>
+<dl><dt>
+<em>Contact_Organization:</em>  U.S. Geological Survey
+<dt>
+<em>Contact_Person:</em>  Sharon Smith
+</dt>
+</dt></dl>
+</dd>
+<dt>
+<em>Contact_Position:</em>  GIS Computer Specialist
+<dt>
+<em>Contact_Address:</em>
+</dt>
+</dt>
+<dd>
+<dl>
+<dt>
+<em>Address_Type:</em>  mailing
+<dt>
+<em>Address:</em>
+</dt>
+</dt>
+<dd>
+
+Denver Federal Center
+MS 980, Box 25046
+
+</dd>
+<dt>
+<em>City:</em>  Denver
+<dt>
+<em>State_or_Province:</em>  Colorado
+<dt>
+<em>Postal_Code:</em>  80225-0046
+<dt>
+<em>Country:</em>  USA
+</dt>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+<dt>
+<em>Contact_Voice_Telephone:</em>  303-236-4610
+<dt>
+<em>Contact_Facsimile_Telephone:</em>  303-236-5349
+<dt>
+<em>Contact_Electronic_Mail_Address:</em>  ssmith@climate.cr.usgs.gov
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+</dl>
+</dd>
+<dt>
+<em>Metadata_Standard_Name:</em>
+</dt>
+<dd>
+
+FGDC Content Standards for Digital Geospatial Metadata ("CSDGM version 2")
+
+</dd>
+<dt>
+<em>Metadata_Standard_Version:</em>  FGDC-STD-001-1998
+<dt>
+<em>Metadata_Access_Constraints:</em>  none
+<dt>
+<em>Metadata_Use_Constraints:</em>  none
+<p>
+</p>
+</dt>
+</dt>
+</dt>
+</dl>
+</dd>
+</dl>
+<hr>
+Generated by <a href="https://web.archive.org/web/20170127094252/http://geology.usgs.gov/tools/metadata/tools/doc/mp.html"><tt>mp</tt></a> version 2.4.30 on Tue Sep 28 10:28:05 1999<br><!-- END main page content --><!-- BEGIN USGS Footer Template --><div id="usgsfooter">
+	<p id="usgsfooterbar">
+		<a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/accessibility.html" title="Accessibility Policy (Section 508)">Accessibility</a>
+		<a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/foia/" title="Freedom of Information Act">FOIA</a>
+		<a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/privacy.html" title="Privacy policies of the U.S. Geological Survey.">Privacy</a>
+		<a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/policies_notices.html" title="Policies and notices that govern information posted on USGS Web sites.">Policies and Notices</a>
+	</p>
+
+	<p id="usgsfootertext">
+		<a href="https://web.archive.org/web/20170127094252/https://www.takepride.gov/"><img src="/web/20170127094252im_/https://gec.cr.usgs.gov/visid_includes/external/images/footer_graphic_takePride.jpg" alt="Take Pride in America logo" title="Take Pride in America Home Page" width="60" height="58"></a>
+		<a href="https://web.archive.org/web/20170127094252/https://usa.gov/"><img src="/web/20170127094252im_/https://gec.cr.usgs.gov/visid_includes/external/images/footer_graphic_usagov.jpg" alt="USA.gov logo" title="USAGov: Government Made Easy" width="90" height="26"></a>
+		<a href="https://web.archive.org/web/20170127094252/https://www.doi.gov/">U.S. Department of the Interior</a> |
+		<a href="https://web.archive.org/web/20170127094252/https://www.usgs.gov/">U.S. Geological Survey</a><br>
+	    URL: https://gec.cr.usgs.gov/data/little/vegmaps_met.shtml<br>
+	    Page Contact Information: <a href="https://web.archive.org/web/20170127094252/mailto:rmgsc_apps@usgs.gov">Website Manager</a><br>
+	    Page Last Modified: Monday, 21-Nov-2016 16:16:26 Mountain Standard Time
+	</p>
+</div>
+<!-- END USGS Footer Template -->
+
+</body>
+</html>
