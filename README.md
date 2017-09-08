@@ -16,6 +16,25 @@ SHP projection information (see Metadata.shtml for more information):
 - Denominator_of_Flattening_Ratio: 294.98
 - EPSG:4267 (https://epsg.io/4267)
 
+### UPDATE
+I emailed Peter Schweitzer (USGS), the designated contact on the metadata, on 29 August 2016. As part of his reply, he included a response to another user's query:
+
+>We have discontinued serving the Elbert Little tree species maps. We
+refer queries by users the following sources for newer data:
+>
+>https://www.fs.usda.gov/rds/archive/Product/RDS-2013-0013
+>
+>https://www.fs.fed.us/nrs/atlas/littlefia/
+>
+>Our decision to stop serving the Little maps was threefold: 1) because
+>reorganization of our web space made it more difficult to continue
+>hosting the maps; 2) it has been pointed out to me that there are
+>digitizing errors in some of the shapefiles - I don't know which ones,
+>and we don't have the resources or need, frankly, to correct them; and
+>3) we were made aware that the Forest Service is employing newer
+>methodologies for quantifying and mapping tree species distribution,
+>and we defer to them as experts in the field.
+
 ## Species list
 | **Species** | **SHP/ subfolder** |
 | ------------------ | ----------- |
