@@ -36,6 +36,8 @@ refer queries by users the following sources for newer data:
 >and we defer to them as experts in the field.
 
 ## Species list
+Note that the pattern for filename is generally the first four letters of the genus and species epithet. In the case of name collisions and other deviations, the filename used in the original database is given with an asterisk (*).
+
 | **Species** | **SHP/ subfolder** |
 | ------------------ | ----------- |
 | *Abies amabilis* | abieamab |
@@ -67,7 +69,7 @@ refer queries by users the following sources for newer data:
 | *Acer pensylvanicum* | acerpens |
 | *Acer rubrum* | acerrubr |
 | *Acer saccharinum* | acersacc |
-| *Acer saccharum* | acersacr |
+| *Acer saccharum* | acersacr* |
 | *Acer spicatum* | acerspic |
 | *Acoelorrhaphe wrightii* | acoewrig |
 | *Aesculus californica* | aesccali |
@@ -128,7 +130,7 @@ refer queries by users the following sources for newer data:
 | *Calyptranthes pallens* | calypall |
 | *Calyptranthes zuzygium* | calyzuzy |
 | *Canella winterana* | canewint |
-| *Canotia holacantha* | canohola |
+| *Canotia holacantha* | canoholo* |
 | *Capparis cynophallophora* | cappcyno |
 | *Capparis flexuosa* | cappflex |
 | *Carpinus caroliniana* | carpcaro |
@@ -436,7 +438,7 @@ refer queries by users the following sources for newer data:
 | *Pinus michoacana* | pinumich |
 | *Pinus monophylla* | pinumono |
 | *Pinus monticola* | pinumont |
-| *Pinus montezumae* | pinumont |
+| *Pinus montezumae* | pinumtez* |
 | *Pinus muricata* | pinumuri |
 | *Pinus nelsonii* | pinunels |
 | *Pinus occidentalis* | pinuocci |
@@ -454,7 +456,7 @@ refer queries by users the following sources for newer data:
 | *Pinus rigida* | pinurigi |
 | *Pinus sabiniana* | pinusabi |
 | *Pinus serotina* | pinusero |
-| *Pinus strobus* | pinustro |
+| *Pinus strobus* | pinustrb* |
 | *Pinus strobiformis* | pinustro |
 | *Pinus taeda* | pinutaed |
 | *Pinus teocote* | pinuteoc |
@@ -611,7 +613,7 @@ refer queries by users the following sources for newer data:
 | *Salix hookeriana* | salihook |
 | *Salix laevigata* | salilaev |
 | *Salix lasiandra* | salilasi |
-| *Salix lasiolepis* | salilasi |
+| *Salix lasiolepis* | salilaso* |
 | *Salix lucida* | saliluci |
 | *Salix mackenzieana* | salimack |
 | *Salix nigra* | salinigr |
