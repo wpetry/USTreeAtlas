@@ -67,7 +67,7 @@ refer queries by users the following sources for newer data:
 | *Acer pensylvanicum* | acerpens |
 | *Acer rubrum* | acerrubr |
 | *Acer saccharinum* | acersacc |
-| *Acer saccharum* | acersacc |
+| *Acer saccharum* | acersacr |
 | *Acer spicatum* | acerspic |
 | *Acoelorrhaphe wrightii* | acoewrig |
 | *Aesculus californica* | aesccali |
