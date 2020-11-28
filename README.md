@@ -17,7 +17,7 @@ SHP projection information (see Metadata.shtml for more information):
 - EPSG:4267 (https://epsg.io/4267)
 
 ### UPDATE
-I emailed Peter Schweitzer (USGS), the designated contact on the metadata, on 29 August 2016. As part of his reply, he included a response to another user's query:
+I emailed Peter Schweitzer (USGS), the designated contact on the metadata, on 29 August 2017. As part of his reply, he included a response to another user's query:
 
 >We have discontinued serving the Elbert Little tree species maps. We
 refer queries by users the following sources for newer data:
