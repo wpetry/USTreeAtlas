@@ -1,5 +1,7 @@
 # Clone of Digital Representations of Tree Species Range Maps from "Atlas of United States Trees" by Elbert L. Little, Jr. (and other publications)
 
+[![DOI](https://zenodo.org/badge/101860562.svg)](https://zenodo.org/badge/latestdoi/101860562)
+
 This repository contains a clone of the shapefiles and metadata for tree species ranges in the United States that were formerly available from the USGS at https://gec.cr.usgs.gov/data/little/. The data were removed in the spring/summer of 2017.
 
 The source data for this repo come from an archived copy of the website from 27 January 2017 available at: https://web.archive.org/web/20170127093428/https://gec.cr.usgs.gov/data/little/ 
