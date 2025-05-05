@@ -2,24 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/101860562.svg)](https://zenodo.org/badge/latestdoi/101860562)
 
-This repository contains a clone of the shapefiles and metadata for tree species ranges in the United States that were formerly available from the USGS at https://gec.cr.usgs.gov/data/little/. The data were removed in the spring/summer of 2017.
-
-The source data for this repo come from an archived copy of the website from 27 January 2017 available at: https://web.archive.org/web/20170127093428/https://gec.cr.usgs.gov/data/little/ 
-
-PDFs of the range maps are not available in this repo, but may be found on the archived website.
-
-Zipped shapefiles were unzipped and grouped into subfolders in the SHP/ directory following the original file naming convention.
-
-SHP projection information (see Metadata.shtml for more information):
-
-- Horizontal_Datum_Name: North American Datum of 1927
-- Ellipsoid_Name: Clarke 1866
-- Semi-major_Axis: 6378206.4
-- Denominator_of_Flattening_Ratio: 294.98
-- EPSG:4267 (https://epsg.io/4267)
-
-### UPDATE
-I emailed Peter Schweitzer (USGS), the designated contact on the metadata, on 29 August 2017. As part of his reply, he included a response to another user's query:
+## Data provenance 
+The United States Geological Survey (USGS) hosted data from Little's "Atlas of United States Trees" until they were abruptly taken down in mid 2017. The data contained in this repository were sourced from the [27 January 2017 Internet Archive snapshot](https://web.archive.org/web/20170127093428/https://gec.cr.usgs.gov/data/little/). There appears to be low likelihood that this legacy dataset will be restored per email coorespondence with the designated contact listed on the metadata file, Peter Schweitzer (USGS) on 29 August 2017:
 
 >We have discontinued serving the Elbert Little tree species maps. We
 refer queries by users the following sources for newer data:
@@ -36,6 +20,34 @@ refer queries by users the following sources for newer data:
 >3) we were made aware that the Forest Service is employing newer
 >methodologies for quantifying and mapping tree species distribution,
 >and we defer to them as experts in the field.
+
+## Data processing and organization
+The data here have been minimally processed and organized to make them more readily useable than the Internet Archive's snapshot. The zipped shapefiles from the Internet Archive snapshot were unzipped and grouped into subfolders within the `SHP/` directory following the original file naming convention. A geoJSON version is also provided for convenience in `geojson/`. The binomial names have not been updated. Some species codes deviate from the typical convention to avoid naming collisions or from what appear to be spelling errors. The table below flags these deviations.
+
+PDFs of the range maps were not copied into this repo, but they may be found on the Internet Archive snapshot and through the [US Forest Service Fire Effects Information System](https://www.fs.usda.gov/database/feis/pdfs/Little/aa_SupportingFiles/LittleMaps.html) (note: the USFS has updated some scientific names).
+
+SHP projection information (see Metadata.shtml for more information):
+
+- Horizontal_Datum_Name: North American Datum of 1927
+- Ellipsoid_Name: Clarke 1866
+- Semi-major_Axis: 6378206.4
+- Denominator_of_Flattening_Ratio: 294.98
+- EPSG:4267 (https://epsg.io/4267)
+
+## Re-use and attribution
+These data are in the public domain. As works prepared by officers or employees of the federal government of the United States of America, they are not subject to copyright protection as described in 17 U.S.C. § 105. There are no restrictions on reuse, as noted in `vegdist_faq.shtml`.
+
+The citations for the original publications are as follows:
+
+- Critchfield, W.B., and Little, E.L., Jr., 1966, Geographic distribution of the pines of the world: U.S. Department of Agriculture Miscellaneous Publication 991, p. 1-97. [link](https://archive.org/details/geographicdistri991crit)
+- Little, E.L., Jr., 1971, Atlas of United States trees, volume 1, conifers and important hardwoods: U.S. Department of Agriculture Miscellaneous Publication 1146, 9 p., 200 maps. [link](https://archive.org/details/CAT87209954/)
+- Little, E.L., Jr., 1976, Atlas of United States trees, volume 3, minor Western hardwoods: U.S. Department of Agriculture Miscellaneous Publication 1314, 13 p., 290 maps. [link](https://archive.org/details/atlasofunitedsta1314litt)
+- Little, E.L., Jr., 1977, Atlas of United States trees, volume 4, minor Eastern hardwoods: U.S. Department of Agriculture Miscellaneous Publication 1342, 17 p., 230 maps. [link](https://archive.org/details/atlasofunitedsta1342litt)
+- Little, E.L., Jr. 1978, Atlas of United States trees, volume 5, Florida: U.S. Department of Agriculture Miscellaneous Publication 1361, 262 maps. [link](https://archive.org/details/atlasofunitedsta1361litt)
+
+The original publication and map numbers are available for each species within the metadata (`metadata.shtml`) or as a more user-friendly stand-alone table in `Little_datatable.csv`.
+
+Users are encouraged to cite the publication(s) that originally reported 
 
 ## Species list
 Note that the pattern for filename is generally the first four letters of the genus and species epithet. In the case of name collisions and other deviations, the filename used in the original database is given with an asterisk (*).
