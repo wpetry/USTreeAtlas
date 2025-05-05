@@ -1,0 +1,230 @@
+Frequently-anticipated questions:
+
+    What does this data set describe?
+        How should this data set be cited?
+        What geographic area does the data set cover?
+        What does it look like?
+        Does the data set describe conditions during a particular time period?
+        What is the general form of this data set?
+        How does the data set represent geographic features?
+        How does the data set describe geographic features? 
+    Who produced the data set?
+        Who are the originators of the data set?
+        Who also contributed to the data set?
+        To whom should users address questions about the data? 
+    Why was the data set created?
+    How was the data set created?
+        Where did the data come from?
+        What changes have been made? 
+    How reliable are the data; what problems remain in the data set?
+        How well have the observations been checked?
+        How accurate are the geographic locations?
+        How accurate are the heights or depths?
+        Where are the gaps in the data? What is missing?
+        How consistent are the relationships among the data, including topology? 
+    How can someone get a copy of the data set?
+        Are there legal restrictions on access or use of the data?
+        Who distributes the data?
+        What's the catalog number I need to order this data set?
+        What legal disclaimers am I supposed to read?
+        How can I download or order the data? 
+    Who wrote the metadata? 
+
+What does this data set describe?
+
+    Title:
+        Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr. 
+    Abstract:
+        These maps are a digital representation of the individual tree species range maps of the "Atlas of the United States Trees" by Elbert L. Little, Jr. The atlas shows the natural distribution or range of the native tree species of North America. These coverages represent 3 volumes of the atlas.
+
+    How should this data set be cited?
+
+        U.S. Geological Survey, 1999, Digital representation of "Atlas of United States Trees" by Elbert L. Little, Jr..
+
+        Online Links:
+            <http://gec.cr.usgs.gov/data/little> 
+
+    What geographic area does the data set cover?
+
+    West_Bounding_Coordinate: -180.0
+    East_Bounding_Coordinate: -50.0
+    North_Bounding_Coordinate: 83.0
+    South_Bounding_Coordinate: 7.0
+
+    What does it look like?
+
+    Available at <http://gec.cr.usgs.gov/data/little> (PDF)
+        individual browse graphics are available for each map.
+
+    Does the data set describe conditions during a particular time period?
+
+    Calendar_Date: 1999
+    Currentness_Reference: Publication date
+
+    What is the general form of this data set?
+
+    Geospatial_Data_Presentation_Form: map
+
+    How does the data set represent geographic features?
+
+        How are geographic features stored in the data set?
+
+        This is a Vector data set. It contains the following vector data types (SDTS terminology):
+            GT-polygon composed of chains 
+
+        What coordinate system is used to represent geographic features?
+
+        Horizontal positions are specified in geographic coordinates, that is, latitude and longitude. Latitudes are given to the nearest 0.01. Longitudes are given to the nearest 0.01. Latitude and longitude values are specified in Decimal degrees.
+
+        The horizontal datum used is North American Datum of 1927.
+        The ellipsoid used is Clarke 1866.
+        The semi-major axis of the ellipsoid used is 6378206.4.
+        The flattening of the ellipsoid used is 1/294.98.
+
+    How does the data set describe geographic features?
+
+    Entity_and_Attribute_Overview:
+        The only user defined attribute is "code". Polygons attributed with a 1 denotes presence of the tree species in that area. A code attribute of O indicates that the species is absent. 
+    Entity_and_Attribute_Detail_Citation: none
+
+Who produced the data set?
+
+    Who are the originators of the data set? (may include formal authors, digital compilers, and editors)
+
+        U.S. Geological Survey 
+
+    Who also contributed to the data set?
+
+    To whom should users address questions about the data?
+
+        Robert S. Thompson
+        U.S. Geological Survey
+        Geologist
+        Denver Federal Center
+        MS 980, Box 25046
+        Denver, Colorado 80225-0046
+        USA
+
+        303-236-5347 (voice)
+        303-236-5349 (FAX)
+        rthompson@usgs.gov
+
+Why was the data set created?
+
+    To create a digital representation of the vegetation range maps published in "Atlas of United States Trees" by Elbert L. Little, Jr. 
+
+How was the data set created?
+
+    Where did the data come from?
+
+    Little, 1971 (source 1 of 3)
+
+            Little, Elbert L., Jr., 1971, Atlas of United States Trees, Volume 1: Conifers and Important Hardwoods.
+
+        Type_of_Source_Media: paper
+        Source_Contribution: Distribution and extents of tree species.
+
+    Little, 1976 (source 2 of 3)
+
+            Little, Elbert L., Jr., 1976, Atlas of United States Trees, Volume 3: Minor Western Hardwoods.
+
+        Type_of_Source_Media: paper
+        Source_Contribution: Distribution and extents of tree species.
+
+    Little, 1977 (source 3 of 3)
+
+            Little, Elbert L., Jr., 1977, Atlas of United States Trees, Volume 4: Minor Eastern Hardwoods.
+
+        Type_of_Source_Media: paper
+        Source_Contribution: Distribution and extents of tree species.
+
+    What changes have been made?
+
+    Date: 1999 (change 1 of 3)
+        The coverage was created by scanning the map of each species range from the book, registering to a county coverage at 1:2,000,000 scale using the ARC/INFO REGISTER command, and rectifying.
+
+    Date: 1999 (change 2 of 3)
+        Digitized ploygon boundaries on screen using scanned and registered images as reference.
+
+    Date: 1999 (change 3 of 3)
+        Added CODE attributes to coverages; assigned attribute of 1 to polygons representing presence of plant species and 0 to all other polygons.
+
+How reliable are the data; what problems remain in the data set?
+
+    How well have the observations been checked?
+
+    The single user-defined attribute ("code") has an enumerated domain (values of 0 or 1 only), so numerical measures of accuracy are not applicable. The data sets were checked for attribute accuracy by visually comparing color-coded plots of each dataset with the source maps.
+
+    How accurate are the geographic locations?
+
+    At least 90% of the points tested on hard copy printout are within 1/50 inch (0.5mm) of the source data.
+
+    How accurate are the heights or depths?
+
+    Where are the gaps in the data? What is missing?
+
+    All polygons on the printed source maps are represented in the digital coverages.
+
+    How consistent are the relationships among the observations, including topology?
+
+    In some instances, data for the United States portions of the maps were derived from source maps at 1:10,000,000 scale and the portions outside the United States were derived from sources at approximately 1:27,000,000 scale. The coverages were checked for node, intersection, and duplication errors and corrected when necessary. All polygons were snapped closed at nodes. 
+
+How can someone get a copy of the data set?
+
+    Are there legal restrictions on access or use of the data?
+
+        Access_Constraints: None
+        Use_Constraints: None
+
+    Who distributes the data set? (Distributor 1 of 1)
+
+        U.S. Geological Survey
+        c/o Randall Schumann
+        Denver Federal Center
+        MS 980, Box 25046
+        Denver, CO 80225-0046
+        USA
+
+        (303) 236-1525 (voice)
+        (303) 236-5349 (FAX)
+        rschumann@usgs.gov
+
+    What's the catalog number I need to order this data set?
+
+    What legal disclaimers am I supposed to read?
+
+        Although these data have been used by the U.S. Geological Survey, U.S. Department of the Interior, no warranty expressed or implied is made by the U.S. Geological Survey as to the accuracy of the data.
+
+        The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the U.S. Geological Survey in the use of this data, software, or related materials.
+
+    How can I download or order the data?
+
+        Availability in digital form:
+
+        Data format: 	ArcView Shapefile
+        Network links: 	<http://gec.cr.usgs.gov/data/little>
+
+        Cost to order the data: None
+
+Who wrote the metadata?
+
+Dates:
+    Last modified: 28-Sep-1999
+    Last Reviewed: 27-Sep-1999
+
+Metadata author:
+
+        U.S. Geological Survey
+        c/o Sharon Smith
+        GIS Computer Specialist
+        Denver Federal Center
+        MS 980, Box 25046
+        Denver, Colorado 80225-0046
+        USA
+
+        303-236-4610 (voice)
+        303-236-5349 (FAX)
+        ssmith@climate.cr.usgs.gov
+
+Metadata standard:
+    FGDC Content Standards for Digital Geospatial Metadata ("CSDGM version 2") (FGDC-STD-001-1998)
