@@ -47,7 +47,7 @@ The citations for the original publications are as follows:
 
 The original publication and map numbers are available for each species within the metadata (`metadata.shtml`) or as a more user-friendly stand-alone table in `Little_datatable.csv`.
 
-Users are encouraged to cite the publication(s) that originally reported 
+Users are encouraged to cite the publication(s) containing the data they are re-using.
 
 ## Species list
 Note that the pattern for filename is generally the first four letters of the genus and species epithet. In the case of name collisions and other deviations, the filename used in the original database is given with an asterisk (*).
